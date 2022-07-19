@@ -3,7 +3,7 @@ package aulas;
 public class PrimeiroExercicio {
 	public static void main(String [] args) {
 		
-		/*
+		
 		int numero1 = 30;
 		double numero2 = 30.20;
 		
@@ -23,7 +23,7 @@ public class PrimeiroExercicio {
 		String nome = "Alessandro";
 		int idade = 30;
 		double dinheiro = 1000.00;
-		System.out.println(nome + " tem " + idade + " anos, e tem R$ " + dinheiro + " reais."); */
+		System.out.println(nome + " tem " + idade + " anos, e tem R$ " + dinheiro + " reais."); 
 		
 		
 	}
